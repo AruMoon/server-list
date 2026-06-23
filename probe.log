@@ -1,0 +1,45 @@
+probing 38 servers across 4 gamedirs  (timeout=6s, grace=48.0h)
+  [-]      cstrike  106.13.232.83:27015  silent (last seen 113.2h ago)
+  [-]      cstrike  106.13.232.83:27016  silent (last seen 113.2h ago)
+  [+]      cstrike  119.29.13.60:27015  ping=251.312ms  players=0
+  [+]      cstrike  119.45.252.164:27015  ping=257.285ms  players=0
+  [+]      cstrike  119.91.201.9:27015  ping=244.372ms  players=0
+  [+]      cstrike  167.235.7.101:27015  ping=123.803ms  players=0
+  [+]      cstrike  175.178.163.250:27020  ping=245.838ms  players=5
+  [+]      cstrike  175.178.163.250:27021  ping=258.483ms  players=0
+  [+]      cstrike  185.189.167.10:27015  ping=112.267ms  players=0
+  [+]      cstrike  188.212.103.154:27015  ping=131.84ms  players=20
+  [-]      cstrike  193.111.77.184:27031  silent (last seen 158.4h ago)
+  [+]      cstrike  217.154.211.69:27025  ping=158.081ms  players=0
+  [+]      cstrike  51.91.249.12:27015  ping=92.84ms  players=3
+  [+]      cstrike  51.91.249.12:27016  ping=88.971ms  players=1
+  [-]      cstrike  72.60.130.39:27015  silent (last seen 425.8h ago)
+  [+]      cstrike  82.77.209.165:27015  ping=128.83ms  players=5
+  [+]      cstrike  82.77.209.92:27015  ping=120.558ms  players=5
+  [+]      cstrike  82.77.209.95:27015  ping=127.931ms  players=10
+  [+]      cstrike  82.77.209.96:27015  ping=129.9ms  players=4
+  [+]      cstrike  89.207.221.227:27015  ping=174.837ms  players=7
+  [-]      cstrike  47.96.116.126:27015  silent (last seen 74.0h ago)
+  [+]      cstrike  186.19.63.56:27015  ping=170.329ms  players=0
+  [+]      cstrike  5.196.165.2:27015  ping=89.134ms  players=0
+  [+]      cstrike  131.196.196.196:27020  ping=116.161ms  players=32
+  [-]      cstrike  168.222.251.98:6610  silent (last seen 286.6h ago)
+  [-]      cstrike  168.222.251.98:4728  silent (last seen 233.6h ago)
+  [+]      cstrike  193.111.78.158:27015  ping=129.937ms  players=0
+  -> output/v1/servers/cstrike  (20 published)
+  [-]    diffusion  2.56.177.172:27015  silent (last seen 408.8h ago)
+  [~]    diffusion  84.22.154.218:27016  silent now, last seen 10.8h ago (grace)
+  -> output/v1/servers/diffusion  (1 published)
+  [+]          tfc  135.181.160.44:27018  ping=149.373ms  players=0
+  -> output/v1/servers/tfc  (1 published)
+  [~]        valve  193.111.77.184:27011  silent now, last seen 10.8h ago (grace)
+  [+]        valve  51.91.249.12:27017  ping=93.518ms  players=0
+  [+]        valve  77.239.121.202:27015  ping=99.377ms  players=3
+  [F]        valve  94.138.138.9:27015  silent now, published anyway (force)
+  [F]        valve  94.138.138.9:27016  silent now, published anyway (force)
+  [F]        valve  94.138.138.9:27017  silent now, published anyway (force)
+  [-]        valve  45.154.199.157:27015
+  [-]        valve  45.154.199.157:27016
+  -> output/v1/servers/valve  (6 published)
+  -> output/v1/gamedirs
+done: 23 responded, 2 kept by grace, 0 pruned from state, 0 old samples dropped
